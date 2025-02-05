@@ -1,0 +1,1756 @@
+{
+    "data": [
+        {
+            "title": "Paella",
+            "description": "A Spanish rice dish made with seafood, meats, and vegetables, flavored with saffron",
+            "category": "dinner",
+            "type": "seafood",
+            "ingredients": [
+                "3 cloves garlic",
+                "1/2 onion",
+                "1/2 red bell pepper",
+                "1 tube of squid cleaned",
+                "12 raw jumbo shrimp peeled & deveined",
+                "8 fresh mussels cleaned",
+                "1/3 cup extra virgin olive oil (80 ml)",
+                "1/2 cup tomato sauce (112 grams)",
+                "1/2 tsp sweet smoked Spanish paprika (1.30 grams)",
+                "2 1/2 cups fish broth (600 ml)",
+                "1/4 tsp saffron threads or powder (.17 grams)",
+                "1 cup uncooked round rice (200 grams)",
+                "2 lemon wedges",
+                "handful finely chopped parsley",
+                "sea salt & black pepper"
+            ],
+            "instructions": [
+                "Rouchly chop 3 cloves of garlic, finely dice 1/2 onion, finely chop 1/2 red bell pepper and cut 1 cleaned tube of squid into small squares",
+                "Heat a paella pan with a medium-high heat and add in 1/3 cup extra virgin olive oil, after 1 minute season the olive oil with sea salt and add in the cut squid, mix with the olive oil and cook for 1 1/2 to 2 minutes, then remove from the pan and set aside, then add in the diced onion & chopped garlic into the pan, mix with the olive oil, after 1 minute add in the chopped bell pepper and continue to mix so everything evenly sautees",
+                "After 3 minutes, add in 1/2 cup tomato sauce and season everything with 1/2 tsp sweet smoked paprika, sea salt & black pepper, mix together, after 2 minutes and the tomato sauce has thickened, add the squid back into the pan, mix together, then add in 2 1/2 cups fish broth and the saffron",
+                "Once the broth comes to a boil add in 1 cup round rice, give it one final mix so everything is evenly distributed, after 5 to 6 minutes add in the shrimp and the cleaned mussels, after another 5 minutes, lower the fire to a low-medium heat and simmer until all the broth has been absorbed by the rice, then hit back to a medium-high heat to achieve the socarrat, just go between 1 to 2 minutes, then remove the pan from the heat and cover",
+                "After 5 minutes uncover the pan, and garnish the paella with lemon wedges and finely chopped parsley, enjoy!"
+            ],
+            "cookingTime": "45-60",
+            "difficulty": "medium",
+            "servings": "4-6",
+            "cuisine": "spain",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 365,
+                "protein": 2,
+                "fat": 36
+            },
+            "imageUrl": "https://realfood.tesco.com/media/images/RFO-1400x919-ClassicPaella-a00aa895-f133-4f2b-a009-d17eb65c34a5-0-1400x919.jpg"
+        },
+        {
+            "title": "Som tam",
+            "description": "a spicy salad that is made from shredded green and firm papaya",
+            "category": "lunch",
+            "type": "seafood",
+            "ingredients": [
+                "2 cups of shredded green papaya (or swede/rutabaga)",
+                "2 tbs of toasted peanuts",
+                "2 cloves of peeled garlic",
+                "1-2 fresh birds eye chili (or more depending on tolerance)",
+                "1 tbs of dried shrimp",
+                "1/2 piece palm sugar",
+                "7 cherry tomatoes",
+                "juice of 1/2 lime",
+                "1.5 tbs of fish sauce",
+                "1-2 tbs Thai snake beans (or green beans)"
+            ],
+            "instructions": [
+                "Roughly crush a small handful of unsalted peanuts with mortar and pestle. Set aside. Wipe the mortar and pestle clean",
+                "Melt palm sugar in a small pan at low or medium heat, adding 2 tbs of water. The cooking process should form a shiny and thick syrup. This makes it easier to mix the sugar with the salad",
+                "Peel the papaya (or swede), shred it with a shredder (or a mandolin slicer) to thin strips and soak them in cold water while you prepare the rest of the salad. This makes the papaya crunchier and gets rid of any excess starch from the swede",
+                "Cut the green beans into one-inch pieces. Throw away the endings",
+                "Take the chilies and peeled garlic and give them a gentle bash with mortar and pestle. You still ought to see bits and pieces, not a puree. Add the shrimp and continue bashing. Add the crushed peanuts and mix well",
+                "Add the shredded papaya and continue bashing, but not too hard. Just enough so the mixture soaks up the flavours. Use a bigger spoon as a support tool, that way you can shift the salad in the mortar and it doesn't fall out while bashing and mixing",
+                "Add the liquid palm sugar, tomatoes, beans, lime juice and fish sauce. Continue to lightly bash, shift with the spoon, and mix a little more",
+                "Serve on a big dish or bowl, sprinkle some crushed peanuts on top! Voila!"
+            ],
+            "cookingTime": "30",
+            "difficulty": "hard",
+            "servings": "2",
+            "cuisine": "thailand",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 102,
+                "protein": 4,
+                "fat": 1.8
+            },
+            "imageUrl": "https://c.ndtvimg.com/1hkfbvu_som-tam-salad_625x300_04_September_18.jpg"
+        },
+        {
+            "title": "Beef Tacos",
+            "description": "mexican street food with seasoned beef, fresh toppings, and wrapped in soft tortillas",
+            "category": "versatile",
+            "type": "street",
+            "ingredients": [
+                "1 pound lean (at least 80%) ground beef",
+                "1 cup thick & chunky salsa",
+                "10 taco shells",
+                "1/2 head lettuce, shredded",
+                "1 medium tomato, chopped (3/4 cup)",
+                "1 cup shredded cheddar cheese (4 ounces)"
+            ],
+            "instructions": [
+                "Cook beef in 10-inch skillet over medium heat 8 to 10 minutes, stirring occasionally, until brown; drain",
+                "Stir salsa into beef. Heat to boiling, stirring constantly; reduce heat to medium-low. Cook 5 minutes, stirring occasionally. Pour beef mixture into large serving bowl; cover to keep warm",
+                "Heat taco shells as directed on package. Serve taco shells with beef mixture, lettuce, tomato and cheese"
+            ],
+            "cookingTime": "30",
+            "difficulty": "easy",
+            "servings": "10",
+            "cuisine": "mexico",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 190,
+                "protein": 12,
+                "fat": 11
+            },
+            "imageUrl": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg"
+        },
+        {
+            "title": "Chicken parmesan",
+            "description": "Italian dish with breaded chicken cutlets, marinara sauce, and melted cheese",
+            "category": "versatile",
+            "type": "fried dishes",
+            "ingredients": [
+                "4 skinless, boneless chicken breast halves",
+                "salt and freshly ground black pepper to taste",
+                "2 eggs",
+                "1 cup panko bread crumbs, or more as needed",
+                "0.75 of cup grated Parmesan cheese, divided",
+                "2 tablespoons all-purpose flour, or more if needed",
+                "1.5 cup olive oil for frying, or as needed",
+                "1.5 cup prepared tomato sauce",
+                "0.25 cup fresh mozzarella, cut into small cubes",
+                "0.25 cup chopped fresh basil",
+                "0.5 cup grated provolone cheese",
+                "2 teaspoons olive oil"
+            ],
+            "instructions": [
+                "Gather the ingredients. Preheat an oven to 450 degrees F (230 degrees C)",
+                "Place chicken breasts between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound chicken with the smooth side of a meat mallet to a thickness of 1/2-inch",
+                "Season chicken thoroughly with salt and pepper. Using a sifter or strainer; sprinkle flour over chicken breasts, evenly coating both sides",
+                "Beat eggs in a shallow bowl and set aside. Mix bread crumbs and 1/2 cup Parmesan cheese in a separate bowl, set aside. Dip a flour-coated chicken breast in beaten eggs. Transfer breast to the bread crumb mixture, pressing crumbs into both sides. Repeat for each breast. Let chicken rest for 10 to 15 minutes",
+                "Heat 1/2 inch olive oil in a large skillet on medium-high heat until it begins to shimmer. Cook chicken in the hot oil until golden, about 2 minutes per side. The chicken will finish cooking in the oven",
+                "Transfer chicken to a baking dish. Top each breast with 2 tablespoons tomato sauce. Layer each chicken breast with equal amounts of mozzarella cheese, fresh basil, and provolone cheese. Sprinkle remaining Parmesan over top and drizzle each with 1/2 teaspoon olive oil",
+                "Bake in the preheated oven until cheese is browned and bubbly and chicken breasts are no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)",
+                "serve"
+            ],
+            "cookingTime": "45",
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "australia",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 471,
+                "protein": 42,
+                "fat": 25
+            },
+            "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2020/01/Chicken-Parmesan-square-FS-38.jpg"
+        },
+        {
+            "title": "Iskender Kebab",
+            "description": "Turkish dish with lamb or beef served over pita, topped with tomato sauce and yogurt",
+            "category": "dinner",
+            "type": "fried dishes",
+            "ingredients": [
+                "500g lamb or beef, thinly sliced",
+                "4 pita breads",
+                "2 tbsp butter",
+                "1 can (400g) crushed tomatoes",
+                "1 tbsp tomato paste",
+                "1 tsp dried oregano",
+                "1/2 tsp red pepper flakes (optional)",
+                "1/4 cup plain yogurt",
+                "2 tbsp melted butter, for drizzling"
+            ],
+            "instructions": [
+                "Heat 2 tablespoons of butter in a large skillet over medium-high heat. Add the sliced meat and cook until browned on both sides",
+                "Add the crushed tomatoes, tomato paste, oregano, and red pepper flakes (if using) to the skillet. Bring to a simmer and cook for 10 minutes, or until the sauce has thickened slightly",
+                "While the sauce is cooking, lightly toast the pita breads",
+                "To assemble the Iskender kebab, place a pita bread on a plate. Top with some of the cooked meat and sauce. Drizzle with melted butter and a dollop of plain yogurt",
+                "Serve immediately"
+            ],
+            "cookingTime": "20-25",
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "turkey",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 600,
+                "protein": 40,
+                "fat": 30
+            },
+            "imageUrl": "https://www.thespruceeats.com/thmb/WQ8STSH_DbawldRxEQ7AW9T9T0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/baqIMG_1160fsq-5b102541eb97de003619811d.jpg"
+        },
+        {
+            "title": "Crêpes Suzette",
+            "description": "French dessert crêpes served with a citrusy orange sauce and flambéed with liqueur",
+            "category": "dessert",
+            "type": "fried dishes",
+            "ingredients": [
+                "For the crêpes:",
+                "125g all-purpose flour",
+                "250ml milk",
+                "2 eggs",
+                "1 tbsp sugar",
+                "Pinch of salt",
+                "25g melted butter, plus extra for cooking",
+                "For the sauce:",
+                "100g butter",
+                "100g sugar",
+                "Juice and zest of 2 oranges",
+                "50ml Grand Marnier or other orange liqueur (optional)"
+            ],
+            "instructions": [
+                "Make the crêpe batter: In a bowl, whisk together the flour, milk, eggs, sugar, and salt until smooth. Stir in the melted butter",
+                "Heat a lightly buttered crêpe pan or skillet over medium heat. Pour about 1/4 cup of batter onto the pan and swirl to create a thin, even crêpe. Cook for 1-2 minutes per side, or until golden brown",
+                "Repeat with the remaining batter",
+                "Make the sauce: In a large skillet, melt the butter over medium heat. Add the sugar, orange juice, and orange zest. Cook until the sugar dissolves and the sauce thickens slightly",
+                "Fold each crêpe into quarters and add them to the skillet with the sauce. Cook for a few minutes, basting the crêpes with the sauce, until they are heated through",
+                "If using Grand Marnier, carefully pour it over the crêpes and flambé (ignite with a long match or lighter)",
+                "Serve the Crêpes Suzette immediately"
+            ],
+            "cookingTime": "30-40 minutes",
+            "difficulty": "medium",
+            "servings": "4-6",
+            "cuisine": "france",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 350,
+                "protein": 5,
+                "fat": 20
+            },
+            "imageUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/2/24/FN_Bobby-Flay_Crepes-Suzette_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1677268341428.webp"
+        },
+        {
+            "title": "Pad Thai",
+            "description": "Popular Thai stir-fried noodle dish with tofu, shrimp, peanuts, and tamarind sauce",
+            "category": "dinner",
+            "type": "pasta & noodles",
+            "ingredients": [
+                "100g dried rice noodles",
+                "2 tbsp vegetable oil",
+                "2 cloves garlic, minced",
+                "1 red chili, finely chopped (optional)",
+                "100g firm tofu, cubed",
+                "100g shrimp or chicken, cooked",
+                "1 egg, lightly beaten",
+                "50g bean sprouts",
+                "2 tbsp fish sauce",
+                "1 tbsp soy sauce",
+                "1 tbsp tamarind paste",
+                "1 tbsp brown sugar",
+                "1/4 cup chopped peanuts",
+                "1 lime, cut into wedges",
+                "Fresh cilantro, for garnish"
+            ],
+            "instructions": [
+                "Soak rice noodles in warm water for 15-20 minutes, or until softened",
+                "Heat oil in a wok or large skillet over medium-high heat. Add garlic and chili (if using) and stir-fry for 30 seconds",
+                "Add tofu and shrimp/chicken and stir-fry for 2-3 minutes",
+                "Push the ingredients to one side of the wok and pour in the egg. Scramble the egg and then mix it with the other ingredients",
+                "Add the soaked noodles, bean sprouts, fish sauce, soy sauce, tamarind paste, and brown sugar. Stir-fry for 2-3 minutes, or until the noodles are heated through and the sauce has thickened",
+                "Garnish with chopped peanuts and fresh cilantro. Serve immediately with lime wedges"
+            ],
+            "cookingTime": "20-25 minutes",
+            "difficulty": "medium",
+            "servings": "2",
+            "cuisine": "thailand",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 500,
+                "protein": 25,
+                "fat": 20
+            },
+            "imageUrl": "https://www.eatingwell.com/thmb/X8n8s2xKfmMf9qUJj1WtCatbacc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-shrimp-pad-thai-step-05-1190-87e6eec4f9ec48f288489d7f06ea01fc.jpg"
+        },
+        {
+            "title": "Khinkali",
+            "description": "Georgian dumplings filled with seasoned meat, herbs, and a flavorful broth",
+            "category": "dinner",
+            "type": "dumplings",
+            "ingredients": [
+                "500g ground beef (or a mix of beef and pork)",
+                "1 large onion, finely chopped",
+                "1 clove garlic, minced",
+                "1/2 tsp ground cumin",
+                "1/4 tsp ground coriander",
+                "Salt and pepper to taste",
+                "500g all-purpose flour",
+                "250ml warm water",
+                "Fresh cilantro or parsley, chopped (for garnish)"
+            ],
+            "instructions": [
+                "In a bowl, combine the ground meat, onion, garlic, cumin, coriander, salt, and pepper. Mix well and set aside",
+                "In a separate bowl, gradually add the warm water to the flour, mixing until a soft dough forms. Knead the dough for 5-7 minutes until smooth. Cover and let it rest for 30 minutes",
+                "Roll out the dough to a thickness of about 3mm. Cut out circles using a glass or cookie cutter (about 10cm in diameter)",
+                "Place a spoonful of the meat filling in the center of each circle",
+                "Gather the edges of the dough and pleat them together to form a knot at the top, creating a pouch-like shape.  Try to make as many pleats as possible - this is part of the traditional look and helps hold the juices inside",
+                "Bring a large pot of salted water to a boil. Carefully drop the khinkali into the boiling water, a few at a time. Cook for 8-10 minutes, or until they float to the surface and are cooked through",
+                "Remove the khinkali with a slotted spoon and serve hot. Garnish with chopped cilantro or parsley"
+            ],
+            "cookingTime": "45-60 minutes",
+            "difficulty": "medium",
+            "servings": "4-6",
+            "cuisine": "georgia",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 400,
+                "protein": 20,
+                "fat": 25
+            },
+            "imageUrl": "https://cdn.tasteatlas.com/Images/Dishes/d9ae0ef06bc54f7cb4e6b5b928bc6f41.jpg?m=facebook"
+        },
+        {
+            "title": "Tacos al Pastor",
+            "description": "mexican tacos made with marinated pork, pineapple, and fresh toppings",
+            "category": "dinner",
+            "type": "barbecue",
+            "ingredients": [
+                "1 kg pork shoulder, thinly sliced",
+                "4 dried ancho chiles",
+                "2 dried guajillo chiles",
+                "1/4 cup apple cider vinegar",
+                "2 tbsp achiote paste",
+                "1 tbsp oregano",
+                "1 tsp cumin",
+                "1/2 tsp cloves",
+                "1/4 tsp cinnamon",
+                "1 onion, quartered",
+                "4 cloves garlic",
+                "1 pineapple, cored and sliced",
+                "12 corn tortillas",
+                "1/2 cup chopped cilantro",
+                "1/4 cup chopped white onion",
+                "Lime wedges, for serving"
+            ],
+            "instructions": [
+                "Rehydrate the dried chiles in hot water for 30 minutes",
+                "In a blender, combine the rehydrated chiles, apple cider vinegar, achiote paste, oregano, cumin, cloves, cinnamon, onion, and garlic. Blend until smooth",
+                "Marinate the pork in the chile mixture for at least 2 hours, or preferably overnight",
+                "Preheat oven to 180°C (350°F)",
+                "Thread the marinated pork onto a vertical spit or arrange it on a baking sheet",
+                "Roast the pork for 1-1.5 hours, or until cooked through and slightly crispy",
+                "While the pork is roasting, grill the pineapple slices until slightly caramelized",
+                "To serve, slice the pork thinly and place it in warm tortillas. Top with grilled pineapple, chopped cilantro, and chopped white onion. Serve with lime wedges"
+            ],
+            "cookingTime": "2-3 hours (including marinating time)",
+            "difficulty": "medium",
+            "servings": "6",
+            "cuisine": "mexico",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 600,
+                "protein": 40,
+                "fat": 30
+            },
+            "imageUrl": "https://www.seriouseats.com/thmb/4kbwN13BlZnZ3EywrtG2AzCKuYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210712-tacos-al-pastor-melissa-hom-seriouseats-37-f72cdd02c9574bceb1eef1c8a23b76ed.jpg"
+        },
+        {
+            "title": "Schnitzel",
+            "description": "German dish of breaded and fried meat, typically served with potatoes and salad",
+            "category": "dinner",
+            "type": "fried dishes",
+            "ingredients": [
+                "4 pork or veal cutlets (about 150g each)",
+                "1/2 cup all-purpose flour",
+                "2 eggs, beaten",
+                "1 cup breadcrumbs",
+                "Salt and pepper to taste",
+                "Vegetable oil, for frying",
+                "Lemon wedges, for serving"
+            ],
+            "instructions": [
+                "Pound the cutlets with a meat mallet until they are about 1/4 inch thick",
+                "Season the cutlets with salt and pepper",
+                "Set up three shallow dishes: one with flour, one with beaten eggs, and one with breadcrumbs",
+                "Dredge each cutlet in flour, then dip in the beaten eggs, and finally coat with breadcrumbs, ensuring they are fully covered",
+                "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat",
+                "Carefully place the breaded cutlets in the hot oil and fry for 3-5 minutes per side, or until golden brown and cooked through",
+                "Remove the schnitzels from the skillet and drain on paper towels",
+                "Serve immediately with lemon wedges"
+            ],
+            "cookingTime": "20-25 minutes",
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "german",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 400,
+                "protein": 30,
+                "fat": 20
+            },
+            "imageUrl": "https://thestayathomechef.com/wp-content/uploads/2024/04/Authentic-German-Schnitzel_Square-2.jpg"
+        },
+        {
+            "title": "Boeuf Bourguignon",
+            "description": "Classic French beef stew braised in red wine with vegetables and aromatic herbs",
+            "category": "dinner",
+            "type": "baked dishes",
+            "ingredients": [
+                "1 kg beef stew meat, cut into 2-inch cubes",
+                "1 tbsp olive oil",
+                "1 large onion, chopped",
+                "2 carrots, chopped",
+                "2 cloves garlic, minced",
+                "1 bottle (750 ml) red wine (Burgundy preferred)",
+                "2 cups beef broth",
+                "1 tbsp tomato paste",
+                "1 bouquet garni (thyme, parsley, bay leaf)",
+                "10 small pearl onions",
+                "250g button mushrooms",
+                "Salt and pepper to taste",
+                "Chopped fresh parsley, for garnish"
+            ],
+            "instructions": [
+                "Preheat oven to 160°C (325°F)",
+                "Season the beef cubes with salt and pepper",
+                "Heat olive oil in a large Dutch oven or pot over medium-high heat. Brown the beef cubes on all sides",
+                "Remove the beef and set aside. Add the chopped onion, carrots, and garlic to the pot and cook until softened, about 5 minutes",
+                "Add the tomato paste and cook for 1 minute more",
+                "Pour the red wine and beef broth into the pot, scraping up any browned bits from the bottom",
+                "Return the beef to the pot. Add the bouquet garni. Bring to a simmer, cover, and transfer to the oven",
+                "Cook for 2.5-3 hours, or until the beef is very tender",
+                "While the beef is cooking, prepare the pearl onions and mushrooms. In a separate skillet, melt some butter over medium heat. Add the pearl onions and cook until browned. Add the mushrooms and cook until softened",
+                "After the beef is cooked, remove the bouquet garni. Add the cooked pearl onions and mushrooms to the pot",
+                "Simmer for 15 minutes more to allow the flavors to meld",
+                "Garnish with chopped fresh parsley and serve hot"
+            ],
+            "cookingTime": "3-3.5 hours",
+            "difficulty": "hard",
+            "servings": "6-8",
+            "cuisine": "france",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 500,
+                "protein": 40,
+                "fat": 30
+            },
+            "imageUrl": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0cb292c16def2da79eff5dd50b83839e/Derivates/d7e000a76bb99af9d5a82774c8ea3b97de2b0f76.jpg"
+        },
+        {
+            "title": "Green Curry",
+            "description": "thai curry made with green chilies, coconut milk, and a variety of meats or vegetables",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "1 tbsp green curry paste",
+                "1 can (400ml) coconut milk",
+                "1 cup chicken or tofu, cut into bite-sized pieces",
+                "1/2 cup bamboo shoots, sliced",
+                "1/2 cup green beans, trimmed",
+                "1/2 cup Thai eggplant, quartered",
+                "1 red bell pepper, sliced",
+                "1/4 cup Thai basil leaves",
+                "2 tbsp fish sauce",
+                "1 tbsp sugar",
+                "1 lime, juiced",
+                "Rice, for serving"
+            ],
+            "instructions": [
+                "Heat coconut milk in a pot over medium heat until it starts to simmer",
+                "Add the green curry paste and stir well until fragrant, about 1 minute",
+                "Add the chicken or tofu and cook until it is cooked through",
+                "Add the bamboo shoots, green beans, Thai eggplant, and red bell pepper. Cook until the vegetables are tender-crisp",
+                "Stir in the fish sauce and sugar. Simmer for a few minutes to allow the flavors to meld",
+                "Add the Thai basil leaves and lime juice. Stir well",
+                "Serve hot with rice"
+            ],
+            "cookingTime": "20-25 minutes",
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "thailand",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 350,
+                "protein": 20,
+                "fat": 25
+            },
+            "imageUrl": "https://www.thecookingcollective.com.au/wp-content/uploads/2023/05/Thai-green-chicken-curry-3.jpg"
+        },
+        {
+            "title": "Fårikål",
+            "description": "Lamb and Cabbage Stew",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "1 kg lamb shoulder or neck, cut into large pieces",
+                "1 large head of white cabbage, cut into wedges",
+                "400 ml water",
+                "1 tsp whole black peppercorns",
+                "1 tsp salt",
+                "Optional: 1 tbsp all-purpose flour (for thickening)"
+            ],
+            "instructions": [
+                "In a large pot, layer the lamb pieces and cabbage wedges alternately",
+                "Add the water, peppercorns, and salt to the pot",
+                "Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 2-3 hours, or until the lamb is very tender",
+                "If you want a thicker stew, mix the flour with a little cold water to form a slurry, then stir it into the stew during the last 15 minutes of cooking. Simmer until thickened",
+                "Serve the fårikål hot, directly from the pot"
+            ],
+            "cookingTime": "2-3 hours",
+            "difficulty": "easy",
+            "servings": "4-6",
+            "cuisine": "norway",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 450,
+                "protein": 30,
+                "fat": 25
+            },
+            "imageUrl": "https://res.cloudinary.com/norgesgruppen/images/c_scale,dpr_auto,f_auto,q_auto:eco,w_1600/mtxpwqfhlzqa4wwx5ju5/tradisjonell-farikal"
+        },
+        {
+            "title": "Plov (Pilaf)",
+            "description": "rice dish cooked with meat, vegetables, and spices",
+            "category": "dinner",
+            "type": "versatile",
+            "ingredients": [
+                "500g long-grain rice (preferably Devzira)",
+                "500g lamb or beef, cut into 1-inch cubes",
+                "2 large onions, thinly sliced",
+                "2 large carrots, julienned",
+                "1 head of garlic, unpeeled",
+                "1 cup vegetable oil",
+                "1 tbsp cumin",
+                "1 tbsp coriander",
+                "1 tsp turmeric",
+                "Salt and pepper to taste",
+                "Water"
+            ],
+            "instructions": [
+                "Rinse the rice in cold water until the water runs clear. Soak for at least 30 minutes",
+                "Heat the oil in a large, heavy-bottomed pot (kazan) or Dutch oven over medium-high heat",
+                "Add the meat and brown on all sides. Remove the meat and set aside",
+                "Add the onions to the pot and cook until golden brown",
+                "Add the carrots and cook until softened",
+                "Return the meat to the pot. Add the cumin, coriander, turmeric, salt, and pepper. Stir well",
+                "Add the soaked rice to the pot, spreading it evenly over the meat and vegetables. Do not stir",
+                "Pour in enough hot water to cover the rice by about 1 inch.  Place the whole head of garlic, unpeeled, in the center of the rice",
+                "Bring the water to a boil, then reduce heat to low, cover the pot tightly, and simmer for 20-25 minutes, or until the rice is cooked through and the liquid is absorbed",
+                "Remove the pot from the heat and let it rest, covered, for 10-15 minutes.  This is crucial for fluffy rice",
+                "Fluff the rice with a fork, being careful not to crush the grains.  Remove the head of garlic and serve the plov hot"
+            ],
+            "cookingTime": "1 hour 15 minutes",
+            "difficulty": "medium",
+            "servings": "6-8",
+            "cuisine": "uzbekistan",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 450,
+                "protein": 25,
+                "fat": 20
+            },
+            "imageUrl": "https://silkroadrecipes.com/wp-content/uploads/2022/04/Beef-Plov-Beef-Rice-Pilaf-square.jpg"
+        },
+        {
+            "title": "Beef Stroganoff",
+            "description": "Russian dish made with sautéed beef in a creamy mushroom sauce, served with noodles",
+            "category": "dinner",
+            "type": "fried dishes",
+            "ingredients": [
+                "500g beef tenderloin or sirloin, cut into strips",
+                "1 tbsp olive oil",
+                "1 onion, chopped",
+                "250g mushrooms, sliced",
+                "2 tbsp all-purpose flour",
+                "500ml beef broth",
+                "200ml sour cream",
+                "1 tbsp Dijon mustard",
+                "Salt and pepper to taste",
+                "Fresh parsley, chopped (for garnish)",
+                "Noodles or rice, for serving"
+            ],
+            "instructions": [
+                "Season the beef strips with salt and pepper",
+                "Heat the olive oil in a large skillet over medium-high heat. Add the beef and sear on all sides until browned. Remove the beef from the skillet and set aside",
+                "Add the onion to the skillet and cook until softened. Add the mushrooms and cook until browned",
+                "Stir in the flour and cook for 1 minute",
+                "Gradually whisk in the beef broth, sour cream, and Dijon mustard. Bring to a simmer and cook until the sauce has thickened slightly",
+                "Return the beef to the skillet and stir to combine. Simmer for a few minutes to heat through",
+                "Garnish with chopped parsley and serve hot over noodles or rice"
+            ],
+            "cookingTime": "30-40 minutes",
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "russia",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 450,
+                "protein": 30,
+                "fat": 25
+            },
+            "imageUrl": "https://www.gimmesomeoven.com/wp-content/uploads/2020/10/Beef-Stroganoff-Recipe-9.jpg"
+        },
+        {
+            "title": "Chicken Tikka Masala",
+            "description": "Indian curry with marinated chicken cooked in a spiced tomato sauce.",
+            "category": "dinner",
+            "type": "versatile",
+            "ingredients": [
+                "For the chicken marinade:",
+                "500g boneless, skinless chicken breasts, cut into 1-inch cubes",
+                "1 cup plain yogurt",
+                "2 tbsp lemon juice",
+                "2 cloves garlic, minced",
+                "1 inch ginger, grated",
+                "1 tsp garam masala",
+                "1 tsp turmeric powder",
+                "1/2 tsp chili powder",
+                "1/2 tsp cumin powder",
+                "1/4 tsp salt",
+                "For the sauce:",
+                "2 tbsp butter or ghee",
+                "1 large onion, finely chopped",
+                "2 cloves garlic, minced",
+                "1 inch ginger, grated",
+                "1 can (400g) crushed tomatoes",
+                "1 can (400ml) coconut milk",
+                "1 tbsp tomato paste",
+                "1 tsp garam masala",
+                "1/2 tsp paprika",
+                "1/4 tsp salt",
+                "Fresh cilantro, chopped (for garnish)",
+                "Rice or naan bread, for serving"
+            ],
+            "instructions": [
+                "Marinate the chicken: In a bowl, combine all the marinade ingredients. Mix well and let it marinate for at least 30 minutes, or preferably overnight",
+                "Make the sauce: Heat the butter or ghee in a large pan over medium heat. Add the onion and cook until softened and lightly golden",
+                "Add the garlic and ginger and cook for 1 minute more",
+                "Stir in the crushed tomatoes, coconut milk, tomato paste, garam masala, paprika, and salt. Bring to a simmer and cook for 10 minutes, stirring occasionally",
+                "Add the marinated chicken to the sauce. Cook for 15-20 minutes, or until the chicken is cooked through and the sauce has thickened slightly",
+                "Garnish with chopped cilantro and serve hot with rice or naan bread"
+            ],
+            "cookingTime": "45 minutes",
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "india",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 500,
+                "protein": 35,
+                "fat": 25
+            },
+            "imageUrl": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+        },
+        {
+            "title": "Feijoada",
+            "description": "Brazilian stew made with black beans, pork, and sausages, served with rice",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "500g dried black beans",
+                "250g smoked pork ribs",
+                "200g smoked sausage (linguiça)",
+                "150g dried beef (carne seca)",
+                "1 large onion, chopped",
+                "3 cloves garlic, minced",
+                "2 bay leaves",
+                "1 orange, quartered",
+                "Salt and pepper to taste",
+                "Water",
+                "For serving (optional):",
+                "White rice",
+                "Collard greens (couve)",
+                "Farofa (toasted cassava flour)",
+                "Orange slices"
+            ],
+            "instructions": [
+                "Soak the black beans in cold water for at least 4 hours, or preferably overnight. Drain and rinse the beans",
+                "In a large pot, combine the soaked beans, pork ribs, smoked sausage, dried beef, onion, garlic, bay leaves, and orange quarters",
+                "Add enough water to cover the ingredients by about 2 inches. Bring to a boil, then reduce heat to low, cover, and simmer for at least 2-3 hours, or until the beans are tender and the meats are cooked through. Stir occasionally",
+                "Season with salt and pepper to taste. Remove the orange quarters and bay leaves",
+                "Serve the feijoada hot, traditionally with white rice, collard greens, farofa, and orange slices"
+            ],
+            "cookingTime": "3-4 hours",
+            "difficulty": "medium",
+            "servings": "6-8",
+            "cuisine": "brazil",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 500,
+                "protein": 30,
+                "fat": 25
+            },
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0748/1684/8190/files/20240717170612-recipe-20kit-20thumbnail-20photo-20-20-20.png?v=1721235975&width=1600&height=900"
+        },
+        {
+            "title": "Harissa",
+            "description": "Spicy North African chili paste made with peppers, garlic, and spices",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "500g boneless lamb or beef, cut into large chunks",
+                "2 cups pearl barley",
+                "1 large onion, finely chopped",
+                "2 tbsp olive oil",
+                "Salt and pepper to taste",
+                "Water or broth"
+            ],
+            "instructions": [
+                "Soak the pearl barley in cold water for at least 4 hours, or preferably overnight. Drain and rinse the barley",
+                "In a large pot, heat the olive oil over medium heat. Add the lamb or beef and brown on all sides",
+                "Add the chopped onion to the pot and cook until softened",
+                "Add the soaked barley to the pot. Stir well",
+                "Add enough water or broth to cover the ingredients by about 2 inches. Bring to a boil, then reduce heat to low, cover, and simmer for at least 3-4 hours, or until the meat is very tender and the barley has thickened into a porridge-like consistency. Stir occasionally to prevent sticking",
+                "Season with salt and pepper to taste during the last hour of cooking",
+                "Serve the harissa hot"
+            ],
+            "cookingTime": "4-5 hours",
+            "difficulty": "medium",
+            "servings": "4-6",
+            "cuisine": "armenia",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 400,
+                "protein": 30,
+                "fat": 15
+            },
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/5e28a3d9c3249f265a99dc33/484da26f-5975-44e6-9d80-4e38737f47d0/harissa+sauce+1.jpeg"
+        },
+        {
+            "title": "Qutab",
+            "description": "Azerbaijani stuffed flatbread filled with herbs, meat, or cheese",
+            "category": "versatile",
+            "type": "fried dishes",
+            "ingredients": [
+                "For the dough:",
+                "2 cups all-purpose flour",
+                "1 cup warm water",
+                "1/2 tsp salt",
+                "For the filling (can be varied):",
+                "1 cup finely chopped greens (spinach, cilantro, dill, parsley, etc.)",
+                "1/2 cup crumbled feta cheese (or similar)",
+                "1/4 cup finely chopped onion",
+                "Salt and pepper to taste",
+                "Butter or oil, for cooking"
+            ],
+            "instructions": [
+                "Make the dough: In a bowl, combine the flour and salt. Gradually add the warm water, mixing until a soft dough forms. Knead for 5-7 minutes until smooth. Cover and let it rest for 30 minutes",
+                "Prepare the filling: In a separate bowl, combine the chopped greens, feta cheese, onion, salt, and pepper. Mix well",
+                "Divide the dough into small balls (about 2 inches in diameter)",
+                "On a lightly floured surface, roll out each ball into a thin circle (about 6-8 inches in diameter)",
+                "Place a spoonful of the filling on one half of the circle, leaving a small border around the edge. Fold the other half of the circle over the filling to form a semi-circle",
+                "Press the edges of the qutab together to seal. You can use a fork to crimp the edges for a decorative touch",
+                "Heat a lightly buttered or oiled skillet over medium heat. Cook the qutabs for 2-3 minutes per side, or until golden brown and cooked through",
+                "Serve hot"
+            ],
+            "cookingTime": "45",
+            "difficulty": "medium",
+            "servings": "variable",
+            "cuisine": "azerbaijan",
+            "isFavourite": "false",
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 200,
+                "protein": 5,
+                "fat": 10
+            },
+            "imageUrl": "https://i.ytimg.com/vi/2_cNwFNl_LA/maxresdefault.jpg"
+        },
+        {
+            "title": "Ropa Vieja",
+            "description": "Shredded beef in tomato sauce",
+            "category": "dinner",
+            "type": "versatile",
+            "ingredients": [
+                "1.5 lbs flank steak or skirt steak",
+                "1 large onion, thinly sliced",
+                "2 green bell peppers, thinly sliced",
+                "4 cloves garlic, minced",
+                "1 can (28 oz) crushed tomatoes",
+                "1/2 cup tomato sauce",
+                "1/4 cup dry red wine (optional)",
+                "2 bay leaves",
+                "1 tsp cumin",
+                "1/2 tsp oregano",
+                "Salt and pepper to taste",
+                "Olive oil",
+                "Cooked white rice, for serving"
+            ],
+            "instructions": [
+                "Season the flank steak with salt and pepper",
+                "Heat olive oil in a large Dutch oven or pot over medium-high heat. Sear the steak on all sides until browned. Remove the steak from the pot and set aside",
+                "Add the onion and bell peppers to the pot and cook until softened",
+                "Add the garlic, cumin, and oregano and cook for 1 minute more",
+                "Stir in the crushed tomatoes, tomato sauce, and red wine (if using). Bring to a simmer",
+                "Return the steak to the pot. Add the bay leaves. Reduce heat to low, cover, and simmer for 2-3 hours, or until the beef is very tender and easily shreds",
+                "Remove the beef from the pot and shred it using two forks",
+                "Return the shredded beef to the pot and stir to combine with the sauce",
+                "Serve the Ropa Vieja hot over cooked white rice"
+            ],
+            "cookingTime": "240",
+            "difficulty": "medium",
+            "servings": "4-6",
+            "cuisine": "cuba",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 400,
+                "protein": 35,
+                "fat": 15
+            },
+            "imageUrl": "https://www.allrecipes.com/thmb/h3LsTZQ5FKdOgD9gCxrOYJEHrr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/79301-cuban-ropa-vieja-DDMFS-4x3-0daa8085c6cd4423981002ffae990fb1.jpg"
+        },
+        {
+            "title": "Beshbarmak",
+            "description": "Kazakh dish of boiled meat served over noodles and topped with onions",
+            "category": "dinner",
+            "type": "versatile",
+            "ingredients": [
+                "500g beef or lamb, cut into large pieces",
+                "2 large onions, thinly sliced",
+                "4-5 potatoes, peeled and quartered",
+                "1 package (about 400g) dried noodles (like lasagna sheets or wide egg noodles)",
+                "Salt and pepper to taste",
+                "Water or broth"
+            ],
+            "instructions": [
+                "In a large pot, place the beef or lamb and cover with water or broth. Bring to a boil, then reduce heat to low, cover, and simmer for 2-3 hours, or until the meat is very tender. Remove the meat from the pot and set aside (keep warm in the broth)",
+                "Add the sliced onions to the broth and cook for about 15-20 minutes, until softened and slightly caramelized",
+                "Add the potatoes to the broth and cook until tender, about 20-25 minutes",
+                "While the potatoes are cooking, cook the noodles according to package directions. Drain and rinse the noodles",
+                "To assemble the beshbarmak:  Traditionally, this is done on a large platter.  Place a layer of noodles on the platter. Top with some of the cooked potatoes and onions.  Arrange the pieces of meat over the vegetables.  Ladle some of the broth over the entire platter",
+                "Serve hot.  Traditionally, beshbarmak is eaten with the hands"
+            ],
+            "cookingTime": "240",
+            "difficulty": "medium",
+            "servings": "5",
+            "cuisine": "kazakhstan",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 550,
+                "protein": 35,
+                "fat": 25
+            },
+            "imageUrl": "https://www.friendsofkyrgyzstan.org/assets/images/2021/03/how-to-cook-besh-barmak.jpg"
+        },
+        {
+            "title": "Vegan Chili",
+            "description": "Hearty, plant-based chili with beans, vegetables, and spices",
+            "category": "dinner",
+            "type": "stew",
+            "ingredients": [
+                "1 tbsp olive oil",
+                "1 large onion, chopped",
+                "2 cloves garlic, minced",
+                "1 bell pepper, chopped (any color)",
+                "1 jalapeno pepper, finely chopped (optional)",
+                "2 tbsp chili powder",
+                "1 tsp cumin",
+                "1/2 tsp smoked paprika",
+                "1/4 tsp cayenne pepper (optional)",
+                "1 can (15 oz) black beans, rinsed and drained",
+                "1 can (15 oz) kidney beans, rinsed and drained",
+                "1 can (14.5 oz) diced tomatoes, undrained",
+                "1 can (15 oz) tomato sauce",
+                "1 cup vegetable broth",
+                "Salt and pepper to taste",
+                "Toppings: chopped cilantro, vegan sour cream, avocado, etc"
+            ],
+            "instructions": [
+                "Heat the olive oil in a large pot or Dutch oven over medium heat",
+                "Add the onion and bell pepper and cook until softened, about 5 minutes",
+                "Add the garlic, jalapeno (if using), chili powder, cumin, smoked paprika, and cayenne (if using) and cook for 1 minute more",
+                "Stir in the black beans, kidney beans, diced tomatoes, tomato sauce, and vegetable broth. Bring to a simmer",
+                "Reduce heat to low, cover, and simmer for at least 30 minutes, or longer for a deeper flavor. Stir occasionally",
+                "Season with salt and pepper to taste",
+                "Serve hot with desired toppings"
+            ],
+            "cookingTime": "45",
+            "difficulty": "easy",
+            "servings": "5",
+            "cuisine": "mexico",
+            "isFavourite": "false",
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 300,
+                "protein": 15,
+                "fat": 5
+            },
+            "imageUrl": "https://frommybowl.com/wp-content/uploads/2019/01/Easy_Vegan_Chili_OilFree_FromMyBowl-4.jpg"
+        },
+        {
+            "title": "Vegan Spaghetti Aglio e Olio",
+            "description": "Simple Italian pasta with garlic, olive oil, and chili flakes, made vegan",
+            "category": "dinner",
+            "type": "pasta & noodles",
+            "ingredients": [
+                "300g spaghetti",
+                "1/4 cup olive oil",
+                "4 cloves garlic, thinly sliced",
+                "1/2 tsp red pepper flakes (or more to taste)",
+                "1/4 cup chopped fresh parsley",
+                "Salt and black pepper to taste",
+                "Optional: Vegan Parmesan cheese, nutritional yeast"
+            ],
+            "instructions": [
+                "Cook the spaghetti according to package directions until al dente. Reserve about 1/2 cup of the pasta water before draining",
+                "While the pasta is cooking, heat the olive oil in a large skillet over medium heat",
+                "Add the sliced garlic and red pepper flakes to the skillet. Cook for 2-3 minutes, stirring frequently, until the garlic is fragrant and lightly golden. Be careful not to burn the garlic",
+                "Add the cooked spaghetti to the skillet along with about 1/4 cup of the reserved pasta water. Toss to combine, adding more pasta water if needed to create a light sauce",
+                "Stir in the chopped parsley. Season with salt and black pepper to taste",
+                "Serve immediately. Top with vegan Parmesan cheese or nutritional yeast, if desired"
+            ],
+            "cookingTime": "20",
+            "difficulty": "easy",
+            "servings": "3-4",
+            "cuisine": "italy",
+            "isFavourite": "false",
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 350,
+                "protein": 10,
+                "fat": 15
+            },
+            "imageUrl": "https://www.spiceupthecurry.com/wp-content/uploads/2015/02/spaghetti-aglio-e-olio-8-500x500.jpg"
+        },
+        {
+            "title": "Hummus",
+            "description": "Middle Eastern spread made from blended chickpeas, tahini, garlic, and lemon",
+            "category": "versatile",
+            "type": "fried dishes",
+            "ingredients": [
+                "1 (15oz) can chickpeas, drained or 1 1/5 cups (250g) cooked chickpeas",
+                "1/4 cup (60ml) fresh lemon juice, 1 large lemon",
+                "1/4 cup (60ml) well-stirred tahini",
+                "1 small garlic clove, minced",
+                "2 tablespoons (30ml) extra-virgin olive oil, plus more for serving",
+                "1/2 teaspoon ground cumin",
+                "Salt to taste",
+                "2 to 3 tablespoons (45ml) cold water or aquafaba",
+                "Dash ground paprika, sumac, or Za'atar for serving"
+            ],
+            "instructions": [
+                "Place the chickpeas in a medium saucepan and add the baking soda. Cover the chickpeas by several inches of water, then bring the mixture to a boil over high heat. Continue boiling, reducing heat if necessary to prevent overflow, for about 20 minutes, or until the chickpeas look bloated, their skins are falling off, and they’re quite soft. In a fine-mesh strainer, drain the chickpeas and run cool water over them for about 30 seconds. Set aside",
+                "Meanwhile, in a food processor or high-powered blender, combine the lemon juice, garlic and salt. Process until the garlic is very finely chopped, then let the mixture rest so the garlic flavor can mellow, ideally 10 minutes or longer",
+                "Add the tahini to the food processor and blend until the mixture is thick and creamy, stopping to scrape down any tahini stuck to the sides and bottom of the processor as necessary",
+                "While running the food processor, drizzle in 2 tablespoons ice water. Scrape down the food processor, and blend until the mixture is ultra smooth, pale and creamy. (If your tahini was extra-thick to begin with, you might need to add 1 to 2 tablespoons more ice water.)",
+                "Add the cumin and the drained, over-cooked chickpeas to the food processor. While blending, drizzle in the olive oil. Blend until the mixture is super smooth, scraping down the sides of the processor as necessary, about 2 minutes. Add more ice water by the tablespoon if necessary to achieve a super creamy texture",
+                "Taste, and adjust as necessary—I almost always add another ¼ teaspoon salt for more overall flavor and another tablespoon of lemon juice for extra zing",
+                "Scrape the hummus into a serving bowl or platter, and use a spoon to create nice swooshes on top. Top with garnishes of your choice, and serve. Leftover hummus keeps well in the refrigerator, covered, for up to 1 week"
+            ],
+            "cookingTime": "45",
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "australia",
+            "isFavourite": "false",
+            "dietType": "none",
+            "nutrition": {
+                "calories": 471,
+                "protein": 42,
+                "fat": 25
+            },
+            "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-08-hummus%2Fhummus-165"
+        },
+        {
+            "title": "Mâncare de Praz cu Măsline",
+            "description": "Leek Stew with Olives",
+            "category": "lunch",
+            "type": "soup",
+            "ingredients": [
+                "4 large leeks, cleaned and sliced",
+                "1 cup green olives, pitted and halved",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 teaspoon dried thyme",
+                "1 teaspoon dried oregano",
+                "1 bay leaf",
+                "1 tablespoon lemon zest",
+                "2 tablespoons lemon juice",
+                "Salt and pepper to taste",
+                "Fresh parsley for garnish"
+            ],
+            "instructions": [
+                "In a large pot, heat olive oil over medium heat. Add chopped onion and minced garlic, sautéing until translucent",
+                "Add sliced leeks to the pot, stirring occasionally for about 5 minutes",
+                "Add green olives, dried thyme, dried oregano, and bay leaf. Stir to combine",
+                "Pour in 4 cups of water, bring to a boil, then reduce heat and let it simmer for 30 minutes",
+                "Season with salt, pepper, lemon zest, and lemon juice",
+                "Serve hot, garnished with fresh parsley"
+            ],
+            "cookingTime": 45,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "romania",
+            "isFavourite": false,
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 150,
+                "protein": 3,
+                "fat": 10
+            },
+            "imageUrl": "https://www.gastron.ro/wp-content/uploads/2024/02/Mancare-de-praz-Gastron-1-e1707907563778.jpeg"
+        },
+        {
+            "title": "Artichoke & pea stew",
+            "description": "Whipped pea stew with new potatoes",
+            "category": "lunch",
+            "type": "street",
+            "ingredients": [
+                "2 cups frozen peas, thawed",
+                "1 cup canned artichoke hearts, drained and chopped",
+                "1 tablespoon za'atar spice blend",
+                "1 tablespoon olive oil",
+                "1 tablespoon lemon juice",
+                "1 pound new potatoes, boiled and halved",
+                "Salt and pepper to taste",
+                "Fresh mint leaves for garnish"
+            ],
+            "instructions": [
+                "In a food processor, combine peas, artichoke hearts, za'atar, olive oil, and lemon juice. Blend until smooth",
+                "Season with salt and pepper to taste",
+                "Serve the whipped mixture alongside boiled new potatoes",
+                "Garnish with fresh mint leaves"
+            ],
+            "cookingTime": 20,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "Cyprus",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 250,
+                "protein": 8,
+                "fat": 10
+            },
+            "imageUrl": "https://www.dimitrasdishes.com/wp-content/uploads/2022/03/WEB-Plate-Close-720x720.jpg"
+        },
+        {
+            "title": "Pesto alla Genovese",
+            "description": "Italian sauce made from basil, garlic, pine nuts, Parmesan, and olive oil",
+            "category": "lunch",
+            "type": "pasta & noodles",
+            "ingredients": [
+                "2 cups fresh basil leaves",
+                "1/2 cup pine nuts",
+                "2 cloves garlic",
+                "1/2 cup extra-virgin olive oil",
+                "1/2 cup freshly grated Parmesan cheese",
+                "1/4 cup freshly grated Pecorino Romano cheese",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "In a food processor, combine basil leaves, pine nuts, and garlic. Pulse until finely chopped",
+                "With the processor running, slowly drizzle in olive oil until the mixture is smooth",
+                "Transfer the pesto to a bowl and mix in the grated Parmesan and Pecorino cheeses",
+                "Season with salt to taste",
+                "Toss with your choice of pasta and serve immediately"
+            ],
+            "cookingTime": 15,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "Italy",
+            "isFavourite": false,
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 400,
+                "protein": 10,
+                "fat": 35
+            },
+            "imageUrl": "https://www.sipandfeast.com/wp-content/uploads/2023/07/pesto-alla-genovese-recipe-snippet.jpg"
+        },
+        {
+            "title": "Tlayudas Oaxaqueñas",
+            "description": "Oaxacan flatbread topped with refried beans, cheese, and grilled meat or vegetables",
+            "category": "dinner",
+            "type": "street",
+            "ingredients": [
+                "4 large corn tortillas (preferably extra-large)",
+                "1 cup refried black beans",
+                "1 cup shredded Oaxaca cheese",
+                "1 cup cooked chorizo, crumbled",
+                "1 cup shredded lettuce",
+                "1 tomato, diced",
+                "1/2 cup pickled red onions",
+                "1/4 cup avocado slices",
+                "1/4 cup hot sauce",
+                "1 tablespoon vegetable oil"
+            ],
+            "instructions": [
+                "Preheat a large skillet over medium heat",
+                "Place each tortilla in the skillet, cooking for about 2 minutes on each side until slightly crispy",
+                "Spread a thin layer of refried black beans on each tortilla",
+                "Sprinkle shredded Oaxaca cheese and crumbled chorizo over the beans",
+                "Transfer the tortillas to a baking sheet and bake in a preheated oven at 375°F (190°C) for 10 minutes, or until the cheese is melted",
+                "Remove from the oven and top with shredded lettuce, diced tomato, pickled red onions, avocado slices, and a drizzle of hot sauce",
+                "Serve immediately"
+            ],
+            "cookingTime": 20,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "mexico",
+            "isFavourite": false,
+            "dietType": "none",
+            "nutrition": {
+                "calories": 500,
+                "protein": 20,
+                "fat": 25
+            },
+            "imageUrl": "https://thefigtreeblog.com/wp-content/uploads/2013/04/20130406-DSC_8201-1024x678.jpg"
+        },
+        {
+            "title": "Broccoli Soup & Cheesy Soldiers",
+            "description": "Creamy broccoli soup served with toasted cheese-topped bread sticks",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "4 cups broccoli florets",
+                "4 cups vegetable broth",
+                "1 cup shredded cheddar cheese",
+                "4 slices whole-grain bread",
+                "1/2 cup shredded cheddar cheese",
+                "1 tablespoon butter",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat olive oil in a large pot over medium heat. Add onion and garlic, sautéing until softened",
+                "Add broccoli florets and vegetable broth. Bring to a boil, then reduce to a simmer and cook for 15 minutes or until broccoli is tender",
+                "Use an immersion blender to purée the soup until smooth. Stir in the shredded cheddar cheese until melted",
+                "Toast the whole-grain bread and butter each slice. Top with shredded cheddar cheese and toast until melted and bubbly",
+                "Serve the soup with the cheesy soldiers on the side"
+            ],
+            "cookingTime": 30,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "United Kingdom",
+            "isFavourite": false,
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 400,
+                "protein": 18,
+                "fat": 20
+            },
+            "imageUrl": "https://essentialflavours.co.za/wp-content/uploads/2024/05/Featured-Images-33.png"
+        },
+        {
+            "title": "Vegan Sushi Rolls",
+            "description": "Plant-based sushi rolls filled with vegetables and avocado, wrapped in nori",
+            "category": "lunch",
+            "type": "street",
+            "ingredients": [
+                "2 cups sushi rice",
+                "2 cups water",
+                "1/4 cup rice vinegar",
+                "1 tablespoon sugar",
+                "1/2 teaspoon salt",
+                "4 sheets nori",
+                "1 cucumber, julienned",
+                "1 avocado, sliced",
+                "1 small carrot, julienned",
+                "Soy sauce for dipping"
+            ],
+            "instructions": [
+                "Rinse sushi rice under cold water until the water runs clear. Cook rice with water in a rice cooker according to instructions",
+                "Once cooked, combine rice vinegar, sugar, and salt in a small bowl. Stir into the rice and allow to cool",
+                "Lay out a sheet of nori on a bamboo sushi mat, shiny side down. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top",
+                "Place cucumber, avocado, and carrot along the bottom edge of the rice",
+                "Roll the sushi tightly using the bamboo mat. Seal the edge with a bit of water",
+                "Slice the roll into bite-sized pieces. Serve with soy sauce for dipping"
+            ],
+            "cookingTime": 40,
+            "difficulty": "medium",
+            "servings": "2",
+            "cuisine": "Japan",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 350,
+                "protein": 8,
+                "fat": 15
+            },
+            "imageUrl": "https://www.justonecookbook.com/wp-content/uploads/2023/05/Vegetarian-Sushi-Rolls-9707-I-1.jpg"
+        },
+        {
+            "title": "Shakshuka",
+            "description": "North African breakfast dish made with poached eggs in a spiced tomato sauce",
+            "category": "breakfast",
+            "type": "fried dishes",
+            "ingredients": [
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "1 red bell pepper, chopped",
+                "2 cloves garlic, minced",
+                "1 teaspoon cumin",
+                "1 teaspoon paprika",
+                "1/2 teaspoon chili powder",
+                "1 can diced tomatoes",
+                "4 large eggs",
+                "Fresh cilantro for garnish",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat olive oil in a large skillet over medium heat",
+                "Add onion and red bell pepper, cooking until softened",
+                "Stir in garlic, cumin, paprika, and chili powder, cooking for 1 minute",
+                "Add the canned tomatoes and simmer for 10 minutes, allowing the sauce to thicken",
+                "Make wells in the sauce and crack eggs into them, cover the skillet and cook until the eggs are set",
+                "Garnish with fresh cilantro and serve with crusty bread"
+            ],
+            "cookingTime": 20,
+            "difficulty": "easy",
+            "servings": "2",
+            "cuisine": "Israel",
+            "isFavourite": false,
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 250,
+                "protein": 14,
+                "fat": 20
+            },
+            "imageUrl": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/12/Shakshuka-main-1.jpg"
+        },
+        {
+            "title": "Sushi Rolls with Tofu",
+            "description": "Vegan sushi rolls with tofu, cucumber, and carrot for a light and healthy meal",
+            "category": "lunch",
+            "type": "street",
+            "ingredients": [
+                "2 cups sushi rice",
+                "2 cups water",
+                "1/4 cup rice vinegar",
+                "1 tablespoon sugar",
+                "1/2 teaspoon salt",
+                "4 sheets nori",
+                "1/2 block firm tofu, sliced into strips",
+                "1 cucumber, julienned",
+                "1 carrot, julienned",
+                "Soy sauce for dipping"
+            ],
+            "instructions": [
+                "Rinse sushi rice under cold water until the water runs clear, then cook the rice with water",
+                "Once cooked, stir in rice vinegar, sugar, and salt, then let it cool",
+                "Lay a sheet of nori on a bamboo mat, spread rice over it leaving a border at the top",
+                "Place tofu, cucumber, and carrot along the bottom edge",
+                "Roll tightly, seal with water, and slice into bite-sized pieces",
+                "Serve with soy sauce"
+            ],
+            "cookingTime": 40,
+            "difficulty": "medium",
+            "servings": "2",
+            "cuisine": "Japan",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 300,
+                "protein": 10,
+                "fat": 15
+            },
+            "imageUrl": "https://plantbasedonabudget.com/wp-content/uploads/2022/12/Crispy-Tofu-Rainbow-Veg-Sushi-Plant-Based-on-a-Budget-1-2.jpg"
+        },
+        {
+            "title": "Vegan Lentil Stew",
+            "description": "A hearty and healthy vegan lentil stew full of earthy spices and vegetables",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 carrots, chopped",
+                "2 celery stalks, chopped",
+                "2 cloves garlic, minced",
+                "1 cup dried green lentils, rinsed",
+                "4 cups vegetable broth",
+                "1 can diced tomatoes",
+                "1 teaspoon cumin",
+                "1 teaspoon coriander",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat olive oil in a large pot over medium heat, adding onion, carrots, celery, and garlic",
+                "Cook for 5 minutes until vegetables soften",
+                "Add lentils, vegetable broth, diced tomatoes, cumin, and coriander, bring to a boil",
+                "Reduce heat and simmer for 30 minutes or until lentils are tender",
+                "Season with salt and pepper to taste"
+            ],
+            "cookingTime": 40,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "egypt",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 250,
+                "protein": 15,
+                "fat": 6
+            },
+            "imageUrl": "https://www.eatingwell.com/thmb/AZdGSagOj8VtZPnpcVdD8ttRk3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegan-lentil-stew-0b016185b40446ba98409c75dfeaef7f.jpg"
+        },
+        {
+            "title": "Classic Margherita Pizza",
+            "description": "A simple yet delicious pizza with fresh mozzarella, tomato sauce, and basil",
+            "category": "dinner",
+            "type": "baked dishes",
+            "ingredients": [
+                "1 pizza dough",
+                "1/2 cup tomato sauce",
+                "1 cup fresh mozzarella, sliced",
+                "1/4 cup fresh basil leaves",
+                "1 tablespoon olive oil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat your oven to 475°F (245°C)",
+                "Roll out pizza dough and transfer it to a baking sheet",
+                "Spread tomato sauce over the dough, then top with mozzarella slices",
+                "Bake for 10-12 minutes or until the crust is golden",
+                "Remove from the oven, drizzle with olive oil, and garnish with fresh basil leaves"
+            ],
+            "cookingTime": 20,
+            "difficulty": "easy",
+            "servings": "2",
+            "cuisine": "Italy",
+            "isFavourite": false,
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 400,
+                "protein": 15,
+                "fat": 20
+            },
+            "imageUrl": "https://ohsweetbasil.com/wp-content/uploads/four-cheese-margherita-pizza-recipe-12-scaled.jpg"
+        },
+        {
+            "title": "Vegan Chickpea Curry",
+            "description": "A creamy and flavorful chickpea curry made with coconut milk and spices",
+            "category": "dinner",
+            "type": "fried dishes",
+            "ingredients": [
+                "1 tablespoon coconut oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 tablespoon grated ginger",
+                "1 tablespoon curry powder",
+                "1 can chickpeas, drained",
+                "1 can coconut milk",
+                "1 can diced tomatoes",
+                "1 teaspoon turmeric",
+                "Salt and pepper to taste",
+                "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat coconut oil in a large pan over medium heat",
+                "Add onion, garlic, and ginger, cooking until the onion is softened",
+                "Stir in curry powder and turmeric, cooking for 1 minute",
+                "Add chickpeas, coconut milk, and diced tomatoes, simmer for 15 minutes",
+                "Season with salt and pepper and garnish with fresh cilantro"
+            ],
+            "cookingTime": 20,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "India",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 350,
+                "protein": 10,
+                "fat": 18
+            },
+            "imageUrl": "https://rainbowplantlife.com/wp-content/uploads/2023/02/chickpea-curry-cover-photo-1-of-1.jpg"
+        },
+        {
+            "title": "Baked Falafel",
+            "description": "Crispy baked falafel with a blend of fresh herbs and spices, perfect for a healthy meal",
+            "category": "dinner",
+            "type": "baked dishes",
+            "ingredients": [
+                "1 can chickpeas, drained",
+                "1/2 onion, chopped",
+                "2 cloves garlic, minced",
+                "2 tablespoons fresh parsley, chopped",
+                "2 tablespoons fresh cilantro, chopped",
+                "1 tablespoon ground cumin",
+                "1 tablespoon ground coriander",
+                "1 teaspoon baking powder",
+                "Salt and pepper to taste",
+                "1/4 cup flour",
+                "Olive oil for drizzling"
+            ],
+            "instructions": [
+                "Preheat your oven to 400°F (200°C)",
+                "In a food processor, combine chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, and baking powder",
+                "Pulse until the mixture is smooth but still has some texture",
+                "Add flour and pulse until combined, then season with salt and pepper",
+                "Form the mixture into small balls and place them on a baking sheet",
+                "Drizzle with olive oil and bake for 25 minutes, flipping halfway through"
+            ],
+            "cookingTime": 30,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "Egypt",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 250,
+                "protein": 12,
+                "fat": 10
+            },
+            "imageUrl": "https://www.themediterraneandish.com/wp-content/uploads/2023/08/Baked-Falafel_10.jpg"
+        },
+        {
+            "title": "Kimchi Jjigae",
+            "description": "A comforting Korean stew made with fermented kimchi, tofu, and gochujang",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "1 tablespoon sesame oil",
+                "1/2 onion, chopped",
+                "1 cup kimchi, chopped",
+                "1 block tofu, cubed",
+                "2 cups vegetable broth",
+                "1 tablespoon gochujang (Korean chili paste)",
+                "1 tablespoon soy sauce",
+                "1 teaspoon garlic, minced",
+                "1/2 teaspoon ginger, grated",
+                "Green onions for garnish"
+            ],
+            "instructions": [
+                "Heat sesame oil in a pot over medium heat",
+                "Add onion and garlic, sautéing until softened",
+                "Stir in kimchi, tofu, vegetable broth, gochujang, soy sauce, and ginger",
+                "Bring to a boil, then reduce heat and simmer for 20 minutes",
+                "Garnish with green onions and serve"
+            ],
+            "cookingTime": 30,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "Korea",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 200,
+                "protein": 15,
+                "fat": 14
+            },
+            "imageUrl": "https://www.koreanbapsang.com/wp-content/uploads/2014/03/DSC_5089-3.jpg"
+        },
+        {
+            "title": "Mushroom Risotto",
+            "description": "A creamy Italian risotto with earthy mushrooms and Parmesan cheese",
+            "category": "dinner",
+            "type": "baked dishes",
+            "ingredients": [
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "2 cups Arborio rice",
+                "4 cups vegetable broth",
+                "1 cup dry white wine",
+                "1 cup fresh mushrooms, sliced",
+                "1/2 cup grated Parmesan cheese",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat olive oil in a pan over medium heat",
+                "Add onion and garlic, cooking until softened",
+                "Stir in Arborio rice, cooking for 2 minutes until lightly toasted",
+                "Add white wine and cook until mostly absorbed",
+                "Gradually add vegetable broth, one cup at a time, stirring frequently until rice is tender",
+                "Stir in mushrooms and Parmesan, cooking for 2 more minutes"
+            ],
+            "cookingTime": 40,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "Italy",
+            "isFavourite": false,
+            "dietType": "vegetarian",
+            "nutrition": {
+                "calories": 450,
+                "protein": 12,
+                "fat": 16
+            },
+            "imageUrl": "https://www.afamilyfeast.com/wp-content/uploads/2012/11/Mushroom-Risotto-3.jpg"
+        },
+        {
+            "title": "Gado-Gado",
+            "description": "A traditional Indonesian salad made of boiled vegetables, rice cakes, tofu, and a rich peanut sauce",
+            "category": "lunch",
+            "type": "street",
+            "ingredients": [
+                "2 boiled potatoes, sliced",
+                "2 boiled eggs, quartered",
+                "1 cup cabbage, shredded",
+                "1 cucumber, sliced",
+                "1 cup spinach, blanched",
+                "1/2 cup tofu, cubed",
+                "1/4 cup fried tempeh",
+                "2 tablespoons peanut butter",
+                "1 tablespoon soy sauce",
+                "1 tablespoon lime juice",
+                "1 teaspoon chili paste"
+            ],
+            "instructions": [
+                "Arrange the boiled potatoes, eggs, cabbage, cucumber, spinach, tofu, and tempeh in a large bowl",
+                "Whisk together peanut butter, soy sauce, lime juice, and chili paste to make the sauce",
+                "Pour the peanut sauce over the vegetables and tofu, and toss to combine",
+                "Serve chilled or at room temperature"
+            ],
+            "cookingTime": 30,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "Indonesia",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 350,
+                "protein": 12,
+                "fat": 22
+            },
+            "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2024-03-gado-gado%2Fgado-gado-069_1"
+        },
+        {
+            "title": "Falafel with Hummus",
+            "description": "A Middle Eastern dish of crispy chickpea balls served with creamy hummus",
+            "category": "lunch",
+            "type": "fried dishes",
+            "ingredients": [
+                "1 cup dried chickpeas",
+                "1 small onion, chopped",
+                "2 cloves garlic, minced",
+                "1/4 cup fresh parsley, chopped",
+                "1/4 cup fresh cilantro, chopped",
+                "1 teaspoon ground cumin",
+                "1 teaspoon ground coriander",
+                "Salt and pepper to taste",
+                "1/2 teaspoon baking powder",
+                "1 cup dried breadcrumbs",
+                "Vegetable oil for frying",
+                "1/2 cup hummus"
+            ],
+            "instructions": [
+                "Soak chickpeas in water for 24 hours, then drain and rinse",
+                "Pulse the chickpeas, onion, garlic, parsley, cilantro, cumin, and coriander in a food processor until a coarse paste forms",
+                "Add baking powder, breadcrumbs, salt, and pepper, and mix well",
+                "Shape into small balls or patties, then fry in hot oil until golden and crispy",
+                "Serve with hummus on the side"
+            ],
+            "cookingTime": 45,
+            "difficulty": "medium",
+            "servings": "6",
+            "cuisine": "Egypt",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 250,
+                "protein": 10,
+                "fat": 14
+            },
+            "imageUrl": "https://www.kikkoman.co.uk/fileadmin/_processed_/5/5/csm_597-recipe-page-falafel-mit-hummus_desktop_80ba8af3f0.jpg"
+        },
+        {
+            "title": "Vegan Tacos",
+            "description": "Flavorful vegan tacos filled with spiced lentils and topped with avocado, cilantro, and lime",
+            "category": "dinner",
+            "type": "street",
+            "ingredients": [
+                "1 cup dried lentils",
+                "1 teaspoon ground cumin",
+                "1 teaspoon chili powder",
+                "1/2 teaspoon smoked paprika",
+                "1/4 teaspoon cayenne pepper",
+                "1 tablespoon olive oil",
+                "1/2 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can diced tomatoes",
+                "1 teaspoon lime juice",
+                "4 taco shells",
+                "1 avocado, sliced",
+                "Fresh cilantro for garnish",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Cook the lentils according to package instructions, then drain",
+                "In a pan, heat olive oil and sauté onion and garlic until soft",
+                "Add cumin, chili powder, smoked paprika, cayenne pepper, and tomatoes, cooking for 5 minutes",
+                "Stir in the lentils and lime juice, then season with salt and pepper",
+                "Fill taco shells with the lentil mixture, then top with avocado and cilantro"
+            ],
+            "cookingTime": 30,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "Mexico",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 320,
+                "protein": 15,
+                "fat": 18
+            },
+            "imageUrl": "https://www.twospoons.ca/wp-content/uploads/2020/07/best-vegan-taco-recipe-easy-how-to-make-vegan-tacos-twospoons-5.jpg"
+        },
+        {
+            "title": "Banh Mi",
+            "description": "A Vietnamese sandwich with crispy baguette, pickled vegetables, cilantro, and a variety of fillings",
+            "category": "lunch",
+            "type": "street",
+            "ingredients": [
+                "4 small baguettes",
+                "1/2 cucumber, sliced",
+                "1/4 cup pickled carrots",
+                "1/4 cup pickled daikon",
+                "1/2 cup fresh cilantro",
+                "1 tablespoon mayonnaise",
+                "1 tablespoon soy sauce",
+                "1 tablespoon hoisin sauce",
+                "2 tablespoons sriracha",
+                "1/2 block of tofu, grilled"
+            ],
+            "instructions": [
+                "Split the baguettes and spread mayonnaise on one side",
+                "Drizzle soy sauce and hoisin sauce on the other side",
+                "Layer cucumber, pickled carrots, daikon, cilantro, and grilled tofu",
+                "Top with sriracha and close the sandwich"
+            ],
+            "cookingTime": 15,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "Vietnam",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 350,
+                "protein": 12,
+                "fat": 18
+            },
+            "imageUrl": "https://www.allrecipes.com/thmb/HTJHVC_LYKmXaMF54dhe2gZQkNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/roasted-pork-banh-mi-vietnamese-sandwitch-ddmfs-3X4-0332-cfb4d2e149e7476ab2a2b4030c543f1b.jpg"
+        },
+        {
+            "title": "Ratatouille",
+            "description": "A French vegetable medley of eggplant, zucchini, and peppers, cooked slowly in a tomato sauce",
+            "category": "dinner",
+            "type": "baked dishes",
+            "ingredients": [
+                "1 eggplant, sliced",
+                "1 zucchini, sliced",
+                "1 yellow bell pepper, sliced",
+                "1 red bell pepper, sliced",
+                "2 tomatoes, chopped",
+                "2 cloves garlic, minced",
+                "1 tablespoon olive oil",
+                "1 teaspoon thyme",
+                "1 teaspoon basil",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat oven to 375°F (190°C)",
+                "Layer sliced vegetables in a baking dish",
+                "In a separate bowl, mix chopped tomatoes, garlic, olive oil, thyme, basil, salt, and pepper",
+                "Pour the tomato mixture over the vegetables and bake for 30-40 minutes, until tender"
+            ],
+            "cookingTime": 50,
+            "difficulty": "medium",
+            "servings": "4",
+            "cuisine": "France",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 200,
+                "protein": 5,
+                "fat": 8
+            },
+            "imageUrl": "https://www.howtocook.recipes/wp-content/uploads/2021/05/Ratatouille-recipe-500x500.jpg"
+        },
+        {
+            "title": "Lentil Curry",
+            "description": "A warming Indian curry made with lentils, tomatoes, and a blend of spices",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 tablespoon grated ginger",
+                "2 teaspoons curry powder",
+                "1 can diced tomatoes",
+                "1 cup dried lentils",
+                "3 cups vegetable broth",
+                "1/2 teaspoon cumin",
+                "1/4 teaspoon turmeric",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat olive oil in a pot and sauté onion, garlic, and ginger until softened",
+                "Add curry powder, cumin, turmeric, and tomatoes, cooking for 5 minutes",
+                "Stir in lentils and vegetable broth, bring to a boil",
+                "Reduce heat and simmer for 30 minutes until lentils are tender",
+                "Season with salt and pepper"
+            ],
+            "cookingTime": 40,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "India",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 350,
+                "protein": 20,
+                "fat": 10
+            },
+            "imageUrl": "https://www.chelseasmessyapron.com/wp-content/uploads/2020/04/Lentil-Curry-1.jpg"
+        },
+        {
+            "title": "Chana Masala",
+            "description": "A flavorful North Indian chickpea curry cooked with tomatoes, onions, and spices",
+            "category": "dinner",
+            "type": "soup",
+            "ingredients": [
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 tablespoon ginger, grated",
+                "1 teaspoon cumin",
+                "1 teaspoon coriander",
+                "1 teaspoon garam masala",
+                "1 can chickpeas, drained",
+                "1 can diced tomatoes",
+                "1 cup water",
+                "1/2 teaspoon turmeric",
+                "Salt to taste"
+            ],
+            "instructions": [
+                "Heat olive oil in a pot and sauté onion, garlic, and ginger until softened",
+                "Add cumin, coriander, and garam masala, cooking for 1 minute",
+                "Add chickpeas, tomatoes, water, and turmeric, simmering for 20 minutes",
+                "Season with salt to taste"
+            ],
+            "cookingTime": 30,
+            "difficulty": "easy",
+            "servings": "4",
+            "cuisine": "India",
+            "isFavourite": false,
+            "dietType": "vegan",
+            "nutrition": {
+                "calories": 300,
+                "protein": 15,
+                "fat": 10
+            },
+            "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg"
+        }
+    ]
+}
