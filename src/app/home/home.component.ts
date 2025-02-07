@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, ChangeDetectorRef, Component, inject, OnDestroy, OnInit } from '@angular/core';
+import { Component, inject, OnDestroy, OnInit } from '@angular/core';
 import { RecipeService } from '../services/recipe.service';
 import { debounceTime, distinctUntilChanged, Subject, takeUntil } from 'rxjs';
 import { Recipe } from '../models/recipe.model';
@@ -68,6 +68,7 @@ export class HomeComponent implements OnInit, OnDestroy {
 
   public deleteRecipe(deletedRecipe: Recipe) {
     this.recipesList = this.recipesList.filter((recipe) => recipe.id !== deletedRecipe.id);
+    this.filteredRecipesList = this.recipesList;
   }
 
   ngOnDestroy(): void {

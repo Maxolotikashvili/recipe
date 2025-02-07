@@ -1,4 +1,4 @@
-import { Component, EventEmitter, inject, Input, OnDestroy, output, Output } from '@angular/core';
+import { Component, EventEmitter, inject, Input, OnDestroy, Output } from '@angular/core';
 import { Recipe } from '../models/recipe.model';
 import { CommonModule } from '@angular/common';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
@@ -9,7 +9,7 @@ import { NutritionBenefitsPipe } from '../pipes/nutrition-benefits.pipe';
 import { RecipeService } from '../services/recipe.service';
 import { Subject, takeUntil } from 'rxjs';
 import { HttpErrorResponse } from '@angular/common/http';
-import { Router, RouterModule } from '@angular/router';
+import { RouterModule } from '@angular/router';
 import { MatButtonModule } from '@angular/material/button';
 
 @Component({
