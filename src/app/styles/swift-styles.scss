@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+@mixin text {
+    font-family: var(--default-font);
+    line-height: 1.5;
+    letter-spacing: 0.4px;
+}
+
+:root {
+    --default-font: "Plus Jakarta Sans", serif;
+    --primary-color: #feffff;
+    --secondary-color: #3cc0bd;
+    --text-tone-1: #cbcbcd;
+    --text-tone-2: #dadcde;
+    --text-tone-3: #adafa4;
+    --text-tone-4: #43585b;
+    --text-tone-5: #2e4654;
+}
+
+.ss-text-xs {
+    font-size: 14.5px;
+    @include text();
+}
+
+.ss-text-s {
+    font-size: 16px;
+    @include text();
+}
+
+.ss-text-m {
+    font-size: 18px;
+    @include text();
+}
+
+.ss-text-l {
+    font-size: 20px;
+    @include text();
+}
+
+.ss-text-xl {
+    font-size: 22px;
+    @include text();
+}
+
+.ss-text-xxl {
+    font-size: 26px;
+    @include text();
+}
+
+.ss-text-light {
+    font-weight: 300;
+}
+
+.ss-text-regular {
+    font-weight: 400;
+}
+
+.ss-text-medium {
+    font-weight: 500;
+}
+
+.ss-text-semibold {
+    font-weight: 600;
+}
+
+.ss-text-bold {
+    font-weight: 800;
+}
+
+.ss-text-tone-1 {
+    color: var(--text-tone-1);
+}
+
+.ss-text-tone-2 {
+    color: var(--text-tone-2);
+}
+
+.ss-text-tone-3 {
+    color: var(--text-tone-3);
+}
+
+.ss-text-tone-4 {
+    color: var(--text-tone-4);
+}
+
+.ss-text-tone-5 {
+    color: var(--text-tone-5);
+}
+
+.ss-important-word {
+    color: var(--secondary-color);
+}
+
+.ss-positive-word {
+    color: rgb(95 227 37);
+}
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin position-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

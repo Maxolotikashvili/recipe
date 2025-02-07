@@ -1,0 +1,67 @@
+@use '../styles/aos.styles.scss' as *;
+@use '../styles/swift-styles.scss' as *;
+
+.home-component-wrapper {
+    height: 100%;
+    padding: calc(10vh + 10px) 20px 0 20px;
+    background: #f9f9fb;
+
+    .input-filter-wrapper {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-bottom: calc(10vh - 48px);
+
+        .search-input-wrapper {
+            position: relative;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 20px;
+
+            input {
+                width: 550px;
+                height: 50px;
+                background: var(--primary-color);
+                border: none;
+                padding-inline: 50px 15px;
+                border-radius: inherit;
+                font-family: var(--default-font);
+            }
+
+            input::placeholder {
+                color: var(--text-tone-3);
+            }
+
+            input:focus {
+                outline: none;
+            }
+
+            .search-icon {
+                position: absolute;
+                top: 50%;
+                left: 3%;
+                transform: translateY(-50%);
+            }
+
+        }
+
+        .filter-icon-wrapper {
+            padding: 12px 20px;
+            height: 100%;
+            border-radius: 15px;
+            background: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border: none;
+            cursor: pointer;
+        }
+    }
+
+    .recipes-wrapper {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 10px;
+        margin-top: 20px;
+        padding: 10px 0 20px 0;
+        height: 80%;
+        overflow-y: auto;
+    }
+}

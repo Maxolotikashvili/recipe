@@ -1,0 +1,83 @@
+.recipe {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: 350px;
+    border: none;
+    gap: 5px;
+    border-radius: 20px;
+    padding: 15px;
+    transition: background 0.12s ease;
+
+    .image-background {
+        width: 100%;
+        display: flex;
+        flex-flow: column;
+        justify-content: space-between;
+        padding: 5px 5px 10px 10px;
+        height: 60%;
+        border-radius: 20px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+
+        .buttons-wrapper {
+            display: flex;
+            justify-content: space-between;
+
+            button {
+                width: 35px;
+                height: 35px;
+                border: none;
+                border-radius: 50%;
+                background-color: var(--primary-color);
+                cursor: pointer;
+            }
+        }
+
+        .time-wrapper {
+            display: flex;
+            width: max-content;
+            align-items: center;
+            gap: 5px;
+            border-radius: 100px;
+            background: var(--primary-color);
+            padding: 3px 8px;
+        }
+    }
+
+    .title-flag-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .country-flag {
+            width: 30px;
+            height: 30px;
+        }
+    }
+
+    .nutrition-benefits-wrapper {
+        margin-top: 10px;
+        display: flex;
+        gap: 10px;
+        max-width: 100%;
+        padding-bottom: 15px;
+        overflow-x: scroll;
+        white-space: nowrap;
+
+        .nutrition-benefits {
+            display: flex;
+            align-items: center;
+            border-radius: 6px;
+            padding: 8px 12px;
+        }
+    }
+
+    .view-button {
+        margin: auto;
+        color: var(--secondary-color);
+        padding: 10px;
+    }
+}

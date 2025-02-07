@@ -1,0 +1,21 @@
+@use '../styles/aos.styles.scss' as *;
+@use '../styles/swift-styles.scss' as *;
+
+.favourite-recipes-component-wrapper {
+    position: relative;
+    height: 100%;
+    padding: calc(20vh + 10px) 20px 0 20px;
+
+    .favourite-recipes-wrapper {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 10px;
+        margin-top: 20px;
+        height: 80%;
+        overflow-y: auto;
+    }
+
+    .no-favourites {
+        @include position-center();
+    }
+}

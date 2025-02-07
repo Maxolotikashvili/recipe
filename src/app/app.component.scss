@@ -1,0 +1,14 @@
+.components-wrapper {
+    display: flex;
+    height: 100vh;
+
+    .layout {   
+        width: 25%;
+        background-color: #f9f9fb;
+    }
+
+    .content {
+        width: 75%;
+        background-color: #f9f9fb;
+    }
+}

@@ -1,0 +1,11 @@
+<div class="favourite-recipes-component-wrapper">
+    <h2 class="ss-text-xl ss-text-tone-5">Favourite recipes</h2>
+
+    <div class="favourite-recipes-wrapper"*ngIf="favouriteRecipesList">
+        <ng-container *ngFor="let favouriteRecipe of favouriteRecipesList">
+            <app-recipe [recipe]="favouriteRecipe" (recipeDeleted)="deleteRecipe($event)"></app-recipe>
+        </ng-container>
+    </div>
+
+    <p class="no-favourites ss-text-m" *ngIf="favouriteRecipesList.length === 0">No favourite recipes to show</p>
+</div>

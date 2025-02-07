@@ -1,0 +1,83 @@
+@use '../styles/swift-styles.scss' as *;
+
+.recipe-details-wrapper {
+    width: 100%;
+    padding: 0 50px;
+    height: 100%;
+    overflow: scroll;
+
+    .background-image {
+        width: 100%;
+        height: 400px;
+        background-color: var(--secondary-color);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        margin-bottom: 10px;
+    }
+
+    .recipe-title-wrapper {
+        @include flex-center();
+        justify-content: space-between;
+        margin-bottom: 5px;
+
+        img {
+            width: 40px;
+        }
+    }
+
+    .details-wrapper {
+        margin: 20px 0;
+        width: 70%;
+        display: grid;
+        gap: 5px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+
+        div {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .nutrition-wrapper {
+            p {
+                gap: 5px;
+                display: flex;
+                align-items: center;
+                white-space: nowrap;
+            }
+        }
+    }
+
+    .ingredients-wrapper,
+    .instructions-wrapper {
+        display: flex;
+        flex-flow: column;
+        gap: 10px;
+
+        ul,
+        ol {
+            display: flex;
+            flex-flow: column;
+            gap: 10px;
+
+            li {
+                list-style-type: disc;
+                list-style: inside;
+            }
+        }
+    }
+
+    .instructions-wrapper {
+        margin-top: 40px;
+        padding-bottom: 20px;
+
+        ol {
+            li {
+                list-style-type: decimal;
+            }
+        }
+    }
+}

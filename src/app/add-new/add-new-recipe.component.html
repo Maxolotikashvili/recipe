@@ -1,0 +1,162 @@
+<div class="my-recipes-wrapper">
+    <div class="recipes" *ngIf="!isFormCreated && !newRecipeMessage">
+        <ng-container *ngFor="let recipe of recipesList">
+            <app-recipe [recipe]="recipe" [isUserCreated]="true" (recipeDeleted)="deleteRecipe($event)" (recipeEdited)="editRecipe($event)"></app-recipe>
+        </ng-container>
+
+        <div class="add-recipe-wrapper" *ngIf="!isFormCreated && !newRecipeMessage">
+            <button class="add-recipe ss-text-xl" (click)="initializeForm()">+</button>
+            <span class="ss-text-m ss-text-tone-4">Add new recipe</span>
+        </div>
+    </div>
+
+    <ng-container *ngIf="isFormCreated">
+        <div class="image-upload-wrapper">
+            <input name="upload-image" hidden type="file" accept="image/png, image/jpeg, image/jpg image/svg"
+                (change)="onImageSelected($event)" #imageInput>
+            <button (click)="imageInput.click()" class="ss-tex-tone-4 ss-text-xl" *ngIf="!previewImage">+</button>
+            <label class="ss-text-s ss-text-tone-4" for="upload-image" *ngIf="!previewImage">Upload image</label>
+            <img *ngIf="previewImage" [src]="previewImage" alt="Selected Image" width="200" />
+            <p *ngIf="errorMessage" style="color: red" class="ss-text-m">{{ errorMessage }}</p>
+        </div>
+
+        <form class="recipes-wrapper-form" [formGroup]="recipeForm" (ngSubmit)="submitForm()">
+            <mat-form-field class="description">
+                <mat-label>Description</mat-label>
+                <textarea matInput name="description" placeholder="describe your new recipe"
+                    formControlName="description"></textarea>
+                <mat-error *ngIf="description?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Recipe title</mat-label>
+                <input matInput type="text" formControlName="title">
+
+                <mat-error *ngIf="title?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Category</mat-label>
+                <mat-select formControlName="category">
+                    <mat-option value="breakfast">Breakfast</mat-option>
+                    <mat-option value="dinner">Dinner</mat-option>
+                    <mat-option value="lunch">Lunch</mat-option>
+                    <mat-option value="dessert">Dessert</mat-option>
+                    <mat-option value="versatile">Versatile</mat-option>
+                </mat-select>
+                <mat-error *ngIf="category?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Type</mat-label>
+                <mat-select formControlName="type">
+                    <mat-option value="street food">Street food</mat-option>
+                    <mat-option value="pasta & noodles">Pasta & Noodles</mat-option>
+                    <mat-option value="baked dishes">Baked dishes</mat-option>
+                    <mat-option value="barbeque">Barbeque</mat-option>
+                    <mat-option value="versatile">Versatile</mat-option>
+                    <mat-option value="seafood">Seafood</mat-option>
+                    <mat-option value="stew">Stew</mat-option>
+                    <mat-option value="fried dishes">Fried dishes</mat-option>
+                    <mat-option value="dumplings">Dumplings</mat-option>
+                    <mat-option value="versatile">Versatile</mat-option>
+                </mat-select>
+                <mat-error *ngIf="type?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Cooking time (approx minutes)</mat-label>
+                <input matInput type="number" formControlName="cookingTime">
+
+                <mat-error *ngIf="cookingTime?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Difficulty</mat-label>
+                <mat-select formControlName="difficulty">
+                    <mat-option value="easy">Easy</mat-option>
+                    <mat-option value="medium">Medium</mat-option>
+                    <mat-option value="hard">Hard</mat-option>
+                </mat-select>
+
+                <mat-error *ngIf="difficulty?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Servings</mat-label>
+                <input matInput type="number" formControlName="servings">
+
+                <mat-error *ngIf="servings?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Diet option</mat-label>
+                <mat-select formControlName="dietOption">
+                    <mat-option value="vegan">Vegan</mat-option>
+                    <mat-option value="vegetarian">Vegetarian</mat-option>
+                    <mat-option value="none">None</mat-option>
+                </mat-select>
+
+                <mat-error *ngIf="dietOption?.errors?.['required']">This is a required field</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Cuisine</mat-label>
+                <mat-select formControlName="cuisine">
+                    <mat-option *ngFor="let country of countriesList"
+                        [value]="country.name">{{country.name}}</mat-option>
+                </mat-select>
+            </mat-form-field>
+
+            <div class="nutrition-group">
+                <mat-form-field class="nutrition">
+                    <mat-label>Cal</mat-label>
+                    <input matInput type="number" formControlName="calorie">
+                </mat-form-field>
+
+                <mat-form-field class="nutrition">
+                    <mat-label>Fat</mat-label>
+                    <input matInput type="number" formControlName="fat">
+                </mat-form-field>
+
+                <mat-form-field class="nutrition">
+                    <mat-label>Prot</mat-label>
+                    <input matInput type="number" formControlName="protein">
+                </mat-form-field>
+            </div>
+
+            <h5 class="ss-text-tone-4 ss-text-m">Ingredients</h5>
+            <ul formArrayName="ingredients" class="ingredients">
+                <li *ngFor="let ingredient of ingredients.controls; let i = index">
+                    <mat-form-field>
+                        <input matInput type="text" [formControlName]="i" placeholder="Enter ingredient">
+                        <mat-error *ngIf="ingredient?.errors?.['required']">This is a required field</mat-error>
+                    </mat-form-field>
+                    <button class="remove-item" (click)="removeIngredient(i)">❌</button>
+                </li>
+            </ul>
+
+            <button class="add-ingredient ss-text-xxs" (click)="addIngredient()">+ Add ingredient</button>
+
+            <h5 class="ss-tex-tone-4 ss-text-m">Instructions</h5>
+            <ol formArrayName="instructions" class="instructions">
+                <li *ngFor="let instruction of instructions.controls; let i = index">
+                    <mat-form-field>
+                        <input matInput type="text" [formControlName]="i" placeholder="Add step {{i + 1}}">
+                        <mat-error *ngIf="instruction.errors?.['required']">This is a required field</mat-error>
+                    </mat-form-field>
+                    <button class="remove-item" (click)="removeInstruction(i)">❌</button>
+                </li>
+            </ol>
+
+            <button class="add-instruction ss-text-xxs" (click)="addInstruction()">+ Add instruction</button>
+
+
+            <div class="submit-button-wrapper">
+                <button mat-flat-button class="ss-text-s" [disabled]="recipeForm.status === 'INVALID'">Submit</button>
+            </div>
+        </form>
+    </ng-container>
+
+    <div class="message ss-text-l" *ngIf="newRecipeMessage">{{newRecipeMessage}}</div>
+</div>

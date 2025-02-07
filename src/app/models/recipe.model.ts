@@ -6,17 +6,21 @@ export interface Recipe {
     type: RecipeType,
     ingredients: string[],
     instructions: string[],
-    cookingTime: string,
+    backgroundColor?: string,
+    color?: string,
+    cookingTime: number,
     difficulty: RecipeDifficulty,
     servings: string,
-    cuisine: string,
+    cuisine?: string,
+    countryFlag?: string,
     isFavourite: boolean,
     dietType: RecipeDietType,
-    nutrition: Nutrition,
-    imageUrl: string
+    nutrition?: Nutrition,
+    imageUrl?: string,
+    isUserCreated?: boolean,
 }
 
-export type RecipeType = 'street' | 'pasta & noodles' | 'baked dishes' | 'barbecue' | 'seafood' | 'soup' | 'fried dishes' | 'dumplings';
+export type RecipeType = 'street' | 'pasta & noodles' | 'baked dishes' | 'barbecue' | 'seafood' | 'stew' | 'fried dishes' | 'dumplings' | 'versatile';
 export type RecipeDietType = 'vegetarian' | 'vegan' | 'none';
 export type RecipeDifficulty = 'easy' | 'medium' | 'hard';
 export type RecipeCategory = 'breakfast' | 'lunch' | 'dinner' | 'dessert' | 'versatile';

@@ -1,1 +1,66 @@
-<p>recipe-details works!</p>
+<div class="recipe-details-wrapper" *ngIf="recipe$ | async as recipe">
+    <div class="background-image" [ngStyle]="{'background-image': 'url('+recipe.imageUrl+')'}"></div>
+
+    <div class="recipe-title-wrapper">
+        <h3 class="ss-text-xxl ss-text-bold ss-text-tone-5"> {{recipe.title | titlecase}} </h3>
+        <img class="country-flag" src="https://flagsapi.com/{{recipe.countryFlag}}/shiny/64.png" alt="Country" *ngIf="recipe.cuisine"> 
+    </div>
+    <p class="ss-text-m ss-text-tone-4"> {{recipe.description | titlecase}} </p>
+
+    <div class="details-wrapper">
+        <div>
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.difficulty"></fa-icon>
+            <span class="ss-text-s ss-text-tone-4">{{recipe.difficulty | titlecase}}</span>
+        </div>
+
+        <div>
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.time"></fa-icon>
+            <span class="ss-text-s ss-text-tone-4">{{recipe.cookingTime | time}}</span>
+        </div>
+
+        <div>
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.fork_knife"></fa-icon>
+            <span class="ss-text-s ss-text-tone-4">{{recipe.category | titlecase}} dish</span>
+        </div>
+
+        <div>
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.food"></fa-icon>
+            <span class="ss-text-s ss-text-tone-4">{{recipe.type | titlecase}}</span>
+        </div>
+
+        <div>
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.servings"></fa-icon>
+            <span class="ss-text-s ss-text-tone-4">{{recipe.servings}} servings</span>
+        </div>
+
+        <div class="nutrition-wrapper" *ngIf="recipe.nutrition && (recipe.nutrition | keyvalue).values.length > 0">
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.nutrition"></fa-icon>
+            <p class="ss-text-s ss-text-tone-4">Nutrition: 
+                <span class="ss-text-xs" *ngIf="recipe.nutrition.calories">{{recipe.nutrition.calories}}g (cal), </span>
+                <span class="ss-text-xs" *ngIf="recipe.nutrition.fat">{{recipe.nutrition.fat}}g (fat), </span>
+                <span class="ss-text-xs" *ngIf="recipe.nutrition.protein">{{recipe.nutrition.protein}}g (protein)</span>
+            </p>
+        </div>
+
+        <div *ngIf="recipe.dietType === 'vegan' || recipe.dietType === 'vegetarian'">
+            <fa-icon class="ss-text-xl ss-text-tone-4" [icon]="icons.vegan"></fa-icon>
+            <span class="diet-type ss-text-s ss-text-semibold ss-positive-word">{{recipe.dietType | titlecase}} dish</span>
+        </div>
+    </div>
+
+    <div class="ingredients-wrapper">
+        <h4 class="ss-text-xl ss-text-semibold ss-text-tone-4">Ingredients</h4>
+
+        <ul>
+            <li class="ss-text-s ss-text-tone-5" *ngFor="let ingredient of recipe.ingredients"> {{ingredient}} </li>
+        </ul>
+    </div>
+
+    <div class="instructions-wrapper">
+        <h4 class="ss-text-xl ss-text-semibol ss-text-tone-4">Instructions</h4>
+
+        <ol>
+            <li class="ss-text-s ss-text-tone-5" *ngFor="let instructions of recipe.instructions">{{instructions}}</li>
+        </ol>
+    </div>
+</div>

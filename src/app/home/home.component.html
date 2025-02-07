@@ -1,0 +1,20 @@
+<div class="home-component-wrapper">
+    <div class="input-filter-wrapper">
+        <div class="search-input-wrapper">
+            <input type="search" class="ss-text-s" [formControl]="searchControl" name="search" placeholder="What do you wanna cook?">
+            <fa-icon class="search-icon ss-text-tone-4" [icon]="icons.magnifyingGlass"></fa-icon>
+        </div>
+        
+        <button class="filter-icon-wrapper">
+            <fa-icon class="ss-text-l ss-text-tone-4" [icon]="icons.filter"></fa-icon>
+        </button>
+    </div>
+
+    <h2 class="ss-text-xl ss-text-tone-5">All recipes</h2>
+
+    <div class="recipes-wrapper"*ngIf="recipesList">
+        <ng-container *ngFor="let recipe of filteredRecipesList">
+            <app-recipe [recipe]="recipe" (recipeDeleted)="deleteRecipe($event)"></app-recipe>
+        </ng-container>
+    </div>
+</div>

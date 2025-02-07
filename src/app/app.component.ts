@@ -1,25 +1,24 @@
-import { Component, inject } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { Observable } from 'rxjs';
-import { Recipe } from './models/recipe.model';
-import { RecipeService } from './services/recipe.service';
+import Aos from 'aos';
+import { SidebarComponent } from "./sidebar/sidebar.component";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, SidebarComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'recipe';
 
-  private recipeService = inject(RecipeService);
+  constructor() {}
 
-  public recipes$!: Observable<Recipe[]>;
+  ngOnInit(): void {
+    this.initializeAos();
+  }
 
-  constructor() {
-    this.recipeService.getAllRecipes().subscribe((res) => {
-      console.log(res);
-    })  
+  private initializeAos() {
+    Aos.init();
   }
 }

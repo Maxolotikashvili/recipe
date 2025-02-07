@@ -1,0 +1,33 @@
+<button class="recipe" [ngStyle]="{'background-color': recipe.backgroundColor}">
+    <div class="image-background" [ngStyle]="{'background-image': 'url('+recipe.imageUrl+')'}">
+        <div class="buttons-wrapper">
+            <button (click)="addOrRemoveRecipeFromFavourites()">
+                <fa-icon class="ss-text-m ss-text-tone-5" [icon]="recipe.isFavourite ? icons.favourite : icons.notFavourite"></fa-icon>
+            </button>
+
+            <button *ngIf="isUserCreated" (click)="editRecipe()">
+                <fa-icon [icon]="icons.edit"></fa-icon>
+            </button>
+
+            <button (click)="deleteRecipe()">❌</button>
+        </div>
+
+        <div class="time-wrapper">
+            <fa-icon [icon]="icons.time"></fa-icon>
+            <span class="ss-text-s ss-text-tone-4 ss-text-semibold"> {{recipe.cookingTime | time}} </span>
+        </div>
+    </div>
+
+    <div class="title-flag-wrapper">
+        <span class="ss-text-m ss-text-tone-5 ss-text-bold">{{recipe.title}}</span>
+        <img class="country-flag" src="https://flagsapi.com/{{recipe.countryFlag}}/shiny/32.png" alt="Country" *ngIf="recipe.cuisine"> 
+    </div>
+
+    <p class="cuisine ss-text-s ss-text-tone-4">{{recipe.cuisine | titlecase}}</p>
+    
+    <div class="nutrition-benefits-wrapper" *ngIf="recipe.nutrition">
+        <span class="nutrition-benefits ss-text-s ss-text-tone-5 ss-text-semibold" [ngStyle]="{'background-color': recipe.color}"  *ngFor="let benefit of recipe.nutrition | nutritionBenefits">{{benefit}}</span>
+    </div>
+
+    <button mat-button class="view-button" [routerLink]="['/recipe-details', recipe.id]">View details</button>
+</button>
